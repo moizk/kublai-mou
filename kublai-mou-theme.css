@@ -10,15 +10,15 @@ blockquote {
     padding: 0;
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
     font-size: 13px;
     line-height: 18px;
-    color: #fff;
-    background-color: #282a36;
+    color: #586175;
+    background-color: #042029;
     margin: 10px 13px 10px 13px;
 }
 a {
-    color: #59acf3;
+    color: #bd3613;
 }
 a:hover {
     color: #a7d8ff;
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #fff;
+    color: #268bd2;
     line-height: 36px;
 }
 h1 {
@@ -61,7 +61,7 @@ h6 {
 hr {
     margin: 0 0 19px;
     border: 0;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #586175;
 }
 blockquote {
     padding: 13px 13px 21px 15px;
@@ -74,7 +74,7 @@ blockquote:before {
     font-size:40px;
     margin-left:-10px;
     font-family:georgia,serif;
-    color:#eee;
+    color:#2aa198;
 }
 blockquote p {
     font-size: 14px;
